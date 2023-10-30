@@ -1,4 +1,7 @@
 console.log('test')
+
+//todo ITERACIÓN 1
+
 // !- [ ] 1.- Dado el objeto **empleados**, extrae la empleada Ana completa.
 const empleados = [
   { name: 'Luis', email: 'Luis@gmail.com' },
